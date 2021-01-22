@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453928969245",
+    "project_id": "login-e2a0a",
+    "storage_bucket": "login-e2a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453928969245:android:65bb275fe9581c11cad2f4",
+        "android_client_info": {
+          "package_name": "com.example.variasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453928969245-ecsumefj4ld59qtf7g6me3ou5d36f3ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdTDAJOM_c88Xd3JAWeuimwDto3ECGhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453928969245-ecsumefj4ld59qtf7g6me3ou5d36f3ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
